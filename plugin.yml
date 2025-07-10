@@ -1,12 +1,12 @@
 name: EcoBoost
-version: 1.1.0
+version: 1.2.0
 api: 5.0.0
 main: EcoBoost\Main
 author: MagicalMansz
 commands:
   eco:
     description: Boost ore drops
-    usage: "/eco <percent|stop|stack>"
+    usage: "/eco <percent> [seconds] | /eco stack <percent> | /eco stop"
     permission: eco.boost
 permissions:
   eco.boost:
