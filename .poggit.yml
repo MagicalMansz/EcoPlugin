@@ -5,5 +5,5 @@ branches:
 projects:
   EcoPlugin:
     path: ""
-icon: eco.png
+    icon: eco.png
 ...
