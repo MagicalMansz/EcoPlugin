@@ -2,7 +2,7 @@
 
 /**
  * Plugin: EcoBoost
- * Author: MagicalManszz
+ * Author: MagicalMansz
  * Description: Temporarily boosts ore drops with /eco, stackable and stoppable.
  */
 
