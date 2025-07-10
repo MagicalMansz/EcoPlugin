@@ -1,1 +1,13 @@
-
+name: EcoBoost
+version: 1.1.0
+api: 5.0.0
+main: EcoBoost\Main
+commands:
+  eco:
+    description: Boost ore drops
+    usage: "/eco <percent|stop|stack>"
+    permission: eco.boost
+permissions:
+  eco.boost:
+    description: Allows using /eco command
+    default: op
